@@ -5,7 +5,7 @@ I am a passionate software developer with passion to share knowledge and tech pr
 [![Website URL](https://img.shields.io/static/v1?color=green&label=mcmdothub&logo=website&logoColor=white&style=for-the-badge&message=Browse)](https://mcmdothub.netlify.app/)
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/bhrugen/count.svg" />
+<img src="https://profile-counter.glitch.me/mcmdothub/count.svg" />
 
 <hr/>
 ## &#x1f4c8; GitHub Stats
